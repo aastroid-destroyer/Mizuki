@@ -299,3 +299,41 @@
     border-radius: 8px;
 }
 
+
+
+/* footer section */
+
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 428px;
+    text-align: center;
+    background-color: white;
+}
+
+.content {
+    max-width: 700px;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 100px;
+    font-weight: 950;
+    color: #4f46e5;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    font-size: 22px;
+    color: #8987A1;
+    margin-bottom: 30px;
+}
+
+.navbar>a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #6b6b8d;
+    font-weight: 500;
+}
