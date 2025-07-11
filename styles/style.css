@@ -105,3 +105,55 @@
     margin-bottom: 23px;
 
 }
+
+
+/* stat section */
+
+.stats-section {
+    background-color: rgb(78, 71, 255, 0.1);
+    border-radius: 24px;
+    padding: 48px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 116px 159px 116px 159px;
+}
+
+.container {
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.stats-title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #2d3748;
+    margin-bottom: 48px;
+}
+
+.stats-grid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.stat-number {
+    font-size: 64px;
+    font-weight: 800;
+    color: #4E47FF;
+
+}
+
+.stat-label {
+    font-size: 18px;
+    color: #64748b;
+    font-weight: 500;
+}
