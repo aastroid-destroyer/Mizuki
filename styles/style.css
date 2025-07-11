@@ -217,8 +217,8 @@
 
 .card>p {
     font-size: 20px;
-    color: #555;
-
+    color: rgba(0, 0, 0, 0.863);
+    font-family: inter;
     margin-bottom: 24px;
 }
 
@@ -241,6 +241,7 @@
 .user-date {
     font-size: 16px;
     color: #c9c4c4;
+    font-family: inter;
 }
 
 
@@ -336,11 +337,13 @@
     font-size: 22px;
     color: #8987A1;
     margin-bottom: 30px;
+    font-family: inter;
 }
 
 .navbar>a {
     margin: 0 15px;
     text-decoration: none;
-    color: #6b6b8d;
+    color: #8987A1;
+    font-family: inter;
     font-weight: 500;
 }
