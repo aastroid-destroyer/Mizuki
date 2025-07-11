@@ -32,6 +32,11 @@
     transition: all 0.4s ease;
 }
 
+.btn-primary:hover {
+    background-color: orange;
+    transform: scale(1.1);
+    cursor: pointer;
+}
 
 /* Banner Section */
 .banner {
