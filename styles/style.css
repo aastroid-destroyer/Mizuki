@@ -8,11 +8,10 @@
 
 
 .raleway {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
+
     font-style: normal;
-    font-variation-settings:
-        "wdth" 100;
 }
 
 * {
@@ -53,9 +52,10 @@
     height: 151px;
 }
 
-.logo {
+.nav>h2 {
     color: #4E47FF;
-    font-size: 30px;
+    font-size: 26px;
+    font-weight: 1000;
 }
 
 .template {
@@ -154,6 +154,7 @@
     font-size: 64px;
     font-weight: 800;
     color: #4E47FF;
+    font-family: inter;
 
 }
 
@@ -290,6 +291,7 @@
     border-radius: 10px;
     background-color: white;
     width: 497px;
+    font-family: inter;
 
 }
 
